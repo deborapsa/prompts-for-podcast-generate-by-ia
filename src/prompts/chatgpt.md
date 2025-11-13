@@ -7,7 +7,9 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  Nome do podcast | Você é um roteirista de podcast criativo, especialista em construir nomes que traduzem personalidade, propósito e identidade de marca. Vamos criar um podcast sobre tecnologia, com foco em dados e tendências do mercado, mas com um toque nerd e carismático.
 
-O programa será conduzido por entusiastas da tecnologia — apaixonados por conhecimento e por traduzir o universo dos dados para o público de forma leve, divertida e inspiradora. |
+O programa será conduzido por entusiastas da tecnologia — apaixonados por conhecimento e por traduzir o universo dos dados para o público de forma leve, divertida e inspiradora. 
+
+    |
 
 | Roteiro | 🎧 Episódio 1 — A incrível jornada dos dados — de onde vêm e para onde vão
 [INTRODUÇÃO]
