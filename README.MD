@@ -1,5 +1,11 @@
-# Projeto Podcast Gerado por I.A.s
+<p align="center">
+<img 
+    src="./assets/Gemini_Generated_Image.png"
+    width="300"
+/>
+</p>
 
+# Projeto Podcast Gerado por I.A.s
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
